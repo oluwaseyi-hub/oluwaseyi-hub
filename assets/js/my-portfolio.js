@@ -112,17 +112,7 @@ let services=[
 	 title:"Wordpress Development",
 	info:"",
 	icon: "bi-wordpress"
-	},
-	{ 
-	 title:"E-commerce and Online store solution",
-	info:"",
-	icon: "bi-cart"
-	},
-	{ 
-	 title:"Android development",
-	info:"",
-	icon: "bi-android"
-	}
+	}	
 ]
 
 $.each( services, function(i, result){
