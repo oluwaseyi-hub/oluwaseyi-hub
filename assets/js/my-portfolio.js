@@ -6,11 +6,11 @@ let phone="+2349064732951";
 let address="Nigeria, Ogun State, Abeokuta";
 let profession="Web Developer, Wordpress Developer";
 
-let summary=` <p><em>I am an Innovative and deadline-driven Web Developer with 3+ years of experience designing and developing user-friendly websites from initial concept to final, polished deliverable.</em></p>`;
+let summary=` <p><em>I am an Innovative and deadline-driven Web Developer with 1 year of experience designing and developing user-friendly websites from initial concept to final, polished deliverable.</em></p>`;
               
 let aboutme=`
 <p>                
-Highly skilled web developer with 1 years of experience in building visually stunning and functional websites. Proficient in HTML, CSS, and WordPress, with a strong passion for delivering top-notch digital solutions.
+Highly skilled web developer with 1 year of experience in building visually stunning and functional websites. Proficient in HTML, CSS, and WordPress, with a strong passion for delivering top-notch digital solutions.
 </p>
 <p>
 <strong>Technical Skills</strong>
