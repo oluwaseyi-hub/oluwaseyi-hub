@@ -733,7 +733,8 @@ section,
   color: var(--heading-color);
 }
 
-.hero .btn-get-started {
+.hero .btn-get-started,
+.btn-page{
   color: var(--contrast-color);
   background: var(--accent-color);
   font-family: var(--heading-font);
@@ -748,8 +749,9 @@ section,
   margin-top: 30px;
 }
 
-.hero .btn-get-started:hover {
-  background: color-mix(in srgb, var(--accent-color) 90%, white 20%);
+.hero .btn-get-started:hover,
+.btn-page:hover{
+  background: color-mix(in srgb, var(--accent-color) 90%, white 50%);
 }
 
 @media (max-width: 768px) {
